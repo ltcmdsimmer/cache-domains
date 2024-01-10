@@ -1,1 +1,2 @@
 dl.google.com
+tools.google.com
